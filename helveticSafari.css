@@ -1,0 +1,26 @@
+/* helveticSafari shoos Arial away for Safari / WebKit users.  Safari — Preferences — Advanced — Style Sheet. */
+
+@font-face {
+	
+	font-family: "Arial";
+	src: local("Helvetica");
+
+}
+
+
+
+.TopBar .Header .FlickrLogo {
+
+	padding: 5px 0 0 5px;
+
+	width: 23px;
+	overflow: hidden;
+	
+}
+
+.TopBar .Header .FlickrLogo a {
+
+	display: block;
+	width:  104px;
+
+}
